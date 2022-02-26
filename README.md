@@ -32,8 +32,5 @@
 [![YouTube Logo](https://icons.iconarchive.com/icons/marcus-roberto/google-play/64/YouTube-icon.png)](https://www.youtube.com/channel/UCLcASWvEt3dFB8mydvPdSAg)
 [![LinkedIn Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Linkedin-icon.png)](https://www.linkedin.com/in/jared-scarito-51b545130)
 
-## GitHub Contribution Statistics
-![GitHub Contribution Statistics](https://github-readme-stats.vercel.app/api?username=AlphaTheDev)
-
 ## A1pha's Community [Discord]
 [![Developer Discord](https://discordapp.com/api/guilds/909261119103832084/widget.png?style=banner4)](https://discord.gg/fJekXq5jUP)
