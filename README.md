@@ -2,7 +2,6 @@
 
 Hello welcome to my Github profile I am a little new Lua coder I am going right now only to make scripts and other things for FiveM servers and much more
 
-<!--
 **AlphaTheDev/AlphaTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
