@@ -22,3 +22,4 @@
 - 🔥 Right Now I Only Give Free Scripts
 - 🔥 All My Scripts Are Linked In The Discord And On Github
 - 🔥 We Don't Support Any Kind Of Leaks
+- 🔥 Read Our ToS On The Discord!
