@@ -1,3 +1,6 @@
+## Visitor Count
+  <img src="https://profile-counter.glitch.me/JaredScar/count.svg" />
+
 ### About Me:
 
 - 🔭 I’m currently working on: **ESX By A1pha (Custom ESX Server Pack)**
