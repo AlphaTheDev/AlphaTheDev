@@ -9,8 +9,7 @@
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I Have A Discord:O
 
-### My Community
-### ( https://discord.gg/fJekXq5jUP )
+### My Community ( https://discord.gg/fJekXq5jUP )
 
 - 🌏 Last Updated Members: 173
 - 💲 Col Chats For The Community: 
