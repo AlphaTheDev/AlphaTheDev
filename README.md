@@ -14,3 +14,4 @@
 - 🌏 Last Updated Members: **173**
 - 💬 Cool Chats For The Community: **Memes, Chat For DK And English**
 - 🎉 Cool Giveaways: **In The Giveaways channel**
+- ⚡ Only 2 Owners: **The Gamer, A1pha**
