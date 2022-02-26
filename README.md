@@ -27,4 +27,4 @@
 - 🔥 Read Our ToS On The Discord!
 
 ## A1pha's Community [Discord]
-[![Developer Discord](<iframe src="https://discord.com/widget?id=909261119103832084&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>)
+[![Developer Discord](https://discord.com/api/guilds/909261119103832084/widget.json)
