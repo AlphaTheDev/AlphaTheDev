@@ -1,5 +1,3 @@
-**This Profile Is A ✨ _special_ ✨ Thing**
-
 ### About Me:
 
 - 🔭 I’m currently working on: ESX By A1pha (Custom ESX Server Pack)
@@ -10,3 +8,5 @@
 - 📫 How to reach me: My Discord ( https://discord.gg/fJekXq5jUP )
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I Have A Discord:O
+
+### My Community
