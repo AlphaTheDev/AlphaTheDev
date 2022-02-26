@@ -12,9 +12,5 @@
 ### My Community ( https://discord.gg/fJekXq5jUP )
 
 - 🌏 Last Updated Members: 173
-- 💲 Col Chats For The Community: 
--
--
--
--
--
+- 💬 Cool Chats For The Community: 
+- 🎉 Cool Giveaways: In The Giveaways channel
