@@ -26,5 +26,11 @@
 - 🔥 We Don't Support Any Kind Of Leaks
 - 🔥 Read Our ToS On The Discord!
 
+## Socials
+[![GitHub Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Github-icon.png)](https://github.com/alphathedev)
+[![Twitter Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Twitter-icon.png)](https://twitter.com/A1phaDK)
+[![YouTube Logo](https://icons.iconarchive.com/icons/marcus-roberto/google-play/64/YouTube-icon.png)](https://www.youtube.com/channel/UCLcASWvEt3dFB8mydvPdSAg)
+[![LinkedIn Logo](https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Linkedin-icon.png)](https://www.linkedin.com/in/jared-scarito-51b545130)
+
 ## A1pha's Community [Discord]
 [![Developer Discord](https://discordapp.com/api/guilds/909261119103832084/widget.png?style=banner4)](https://discord.gg/fJekXq5jUP)
