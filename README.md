@@ -16,3 +16,9 @@
 - 🎉 Cool Giveaways: **In The Giveaways channel**
 - ⚡ Only 2 Owners: **The Gamer, A1pha**
 - 📫 Online Admins And Staffs
+
+### My Scripts
+
+- 🔥 Right Now I Only Give Free Scripts
+- 🔥 All My Scripts Are Linked In The Discord And On Github
+- 🔥 We Don't Support Any Kind Of Leaks
