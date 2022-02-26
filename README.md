@@ -1,10 +1,6 @@
-### Hi there 👋
-
-Hello welcome to my Github profile I am a little new Lua coder I am going right now only to make scripts and other things for FiveM servers and much more
-
 **AlphaTheDev/AlphaTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-About Me:
+### About Me:
 
 - 🔭 I’m currently working on: ESX By A1pha (Custom ESX Server Pack)
 - 🌱 I’m currently learning: Nothing Right Now
