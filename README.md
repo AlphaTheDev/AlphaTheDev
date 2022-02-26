@@ -1,5 +1,4 @@
-## Visitor Count
-  <img src="https://profile-counter.glitch.me/alphathedev/count.svg" />
+
 
 ### About Me:
 
