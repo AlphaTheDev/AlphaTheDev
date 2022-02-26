@@ -1,5 +1,5 @@
 ## Visitor Count
-  <img src="https://profile-counter.glitch.me/JaredScar/count.svg" />
+  <img src="https://profile-counter.glitch.me/alphathedev/count.svg" />
 
 ### About Me:
 
